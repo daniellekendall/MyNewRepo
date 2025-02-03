@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
 </head>
 <body>
     <h1>Welcome to My Website</h1>
+    <p>Created by Danielle Kendall</p>
     <ul>
         <li><a href="chapter4.html">Chapter 4</a></li>
         <li><a href="chapter5.html">Chapter 5</a></li>
