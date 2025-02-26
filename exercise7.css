@@ -1,0 +1,50 @@
+footer {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+    padding: 10px;
+    border: 1px dashed darkblue;
+    text-align: center;
+}
+
+#notice {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.headline {
+    color: #ff6600;     border-bottom: 2px dotted #ff6600;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4em;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+}
+
+#feature {
+    font-size: small;
+    color: red;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    width: 80%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+}
+
+#section {
+    font-size: small;
+    color: red;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    width: 80%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    padding: 10px;
+}
